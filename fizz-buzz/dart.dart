@@ -5,7 +5,7 @@ void dart() {
         if (i % 15 == 0) {
             print(i + " fizz+buzz");
         } else if (i % 3 == 0) {
-            print("i + " fizz");
+            print(i + " fizz");
         } else if (i % 5 == 0) {
             print(i + " buzz");
         } else {
