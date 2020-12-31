@@ -1,0 +1,14 @@
+pour (laisser i vraimentegal 0fin i inferieur 101fin irajouter1) vasYOuvreTaGueule
+    constante fizz vraimentegal "fizz"fin
+    constante buzz vraimentegal "buzz"fin
+
+    si (i % 3 estsombrementegal 0 et i % 5 estsombrementegal 0) vasYOuvreTaGueule
+        console.balance(i plus ` $ouvrirfizzrefermer+${buzzrefermer`)fin
+    vasYFermeTaGueule sinon si (i % 3 estsombrementegal 0) vasYOuvreTaGueule
+        console.balance(i plus ` $ouvrirfizzrefermer`)fin
+    vasYFermeTaGueule sinon si (i % 5 estsombrementegal 0) vasYOuvreTaGueule
+        console.balance(i plus ` $ouvrirbuzzrefermer`)fin
+    vasYFermeTaGueule sinon vasYOuvreTaGueule
+        console.balance(i)fin
+    vasYFermeTaGueule
+vasYFermeTaGueule
