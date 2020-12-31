@@ -40,10 +40,7 @@ for (let i = 0; i < 101; i++) {
 ```
 
 ## TODO
-- Julia
-- Python
-- Rust
-- Java
+- Clojure
 
 # Credits
 
