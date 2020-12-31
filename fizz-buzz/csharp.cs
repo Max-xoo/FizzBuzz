@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Rextester
+namespace fizzbuzz
 {
-  public class Program {
+  public class csharp {
     public static void Main(string[] args) {
        string fizz = "fizz";
        string buzz = "buzz";
