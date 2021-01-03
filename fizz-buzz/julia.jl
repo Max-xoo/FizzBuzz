@@ -1,10 +1,10 @@
 for i in 1:100
     if i % 5 == 0 && i % 3 == 0
-        println(i, " fizz+buzz")
+        println("FizzBuzz")
     elseif i % 3 == 0
-        println(i, " fizz")
+        println("Fizz")
     elseif i % 5 == 0
-        println(i, " buzz")
+        println("Buzz")
     else 
         println(i)
     end
